@@ -15,5 +15,5 @@
     "baseURL" :"https://server.tunever.top",
     "isShowAD":true,
     "isUpdateShow": false,
-    "isUnlock" : true
+    "isUnlock" : false
 }
