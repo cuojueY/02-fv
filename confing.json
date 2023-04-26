@@ -1,0 +1,19 @@
+{
+    "appStore_ver":"1.0.0",
+    "appStore_id":"6444859902",
+    "app_id":"284",
+    "app_ver":"1.5.0",
+    "country":"US",
+    "installTime":"1666855316",
+    "prefer":"",
+    "r1":"100",
+    "stageflag":"3",
+    "token":"1",
+    "uid":"0",
+    "version":"4.0",
+    "vp":"0",
+    "baseURL" :"https://server.tunever.top",
+    "isShowAD":true,
+    "isUpdateShow": false,
+    "isUnlock" : false
+}
